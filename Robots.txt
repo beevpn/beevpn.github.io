@@ -1,0 +1,5 @@
+user-agent: *
+
+Allow:/index.html/
+
+Sitemap: https://beevpn.github.io/sitemap.xml
